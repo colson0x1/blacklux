@@ -83,6 +83,7 @@ const Card = styled(motion.div)`
     font-weight: 500;
     padding: 1rem 2rem;
     cursor: pointer;
+    margin-bottom: 2rem;
   }
 `;
 
