@@ -135,6 +135,7 @@ function (user, context, callback) {
   
 }
 ```
+![blacklux auth0 pipeline rule for stripe](https://i.imgur.com/c7Hb3ZC.png)
 20. Make sure to pass, Stripe Secret code in the params.
 21. Run frontend: ```$ npm run dev` 
 http://localhost:1337/
