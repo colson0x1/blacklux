@@ -12,7 +12,7 @@
 * URQL (For fetching data)
 
 ### BACKEND
-* GraphQL
+* GraphQL (For API)
 * Stripe (For payment system)
 * Auth0 (For authentication)
 * Cloudinary (For image optimization)
