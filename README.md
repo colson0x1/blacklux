@@ -1,8 +1,6 @@
 # BLACKLUX.
 > Modern luxury shopping production ready shopping site. 
 
-![blacklux user logged in home page](https://i.imgur.com/wVMOKrd.png)
-
 ***
 
 ### Technology Stack
@@ -101,7 +99,7 @@ AUTH0_BASE_URL='http://localhost:3000'
 16. In order to do that, go to Auth0 and create an application called BLACKLUX.
 ![auth0 application blacklux](https://i.imgur.com/0xNESDD.png)
 17. Set the blacklux application's callback url to: http://localhost:3000/api/auth/callback
-18. [Imgur](https://i.imgur.com/hdu4N8F.png)
+18. ![auth0 api callback](https://i.imgur.com/hdu4N8F.png)
 19. Now, go to: **Auth Pipeline > rule** and create a new rule called Auth0toStripe which contains:
 ```js
 function (user, context, callback) {
@@ -138,7 +136,15 @@ function (user, context, callback) {
 }
 ```
 20. Make sure to pass, Stripe Secret code in the params.
+21. Run frontend: ```$ npm run dev` 
+http://localhost:1337/
 
+API can be retrieved at: 
+![blacklux api](https://i.imgur.com/J7FGIOo.png)
+
+***
+
+### BLACKLUX SCREENSHOT
 
 ![blacklux running next.js and strapi in terminal](https://i.imgur.com/qph9RDW.png)
 
