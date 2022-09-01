@@ -1,5 +1,5 @@
 # BLACKLUX.
-> Modern luxury shopping production ready shopping site. 
+> Modern luxury shopping production ready site. 
 
 ***
 
