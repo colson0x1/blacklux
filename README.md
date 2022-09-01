@@ -10,6 +10,8 @@
 
 ![blacklux user logged in home page](https://i.imgur.com/wVMOKrd.png)
 
+![blacklux user profile page](https://i.imgur.com/OhONo6I.png)
+
 ![blacklux product info page](https://i.imgur.com/geXzSeO.png)
 
 ![blacklux notification when product is added to cart](https://i.imgur.com/nZM4ZE5.png)
@@ -29,3 +31,5 @@
 ![blacklux thank you page after checkout](https://i.imgur.com/V7WPwHh.png)
 
 ![blacklux thank you page after checkout cat xd](https://i.imgur.com/YSpkoeT.png)
+
+![blacklux strapi admin to manage products](https://i.imgur.com/ZtCDwO2.png)
