@@ -157,8 +157,6 @@ API can be retrieved at:
 
 ![blacklux user logged in home page](https://i.imgur.com/wVMOKrd.png)
 
-![blacklux user profile page](https://i.imgur.com/OhONo6I.png)
-
 ![blacklux product info page](https://i.imgur.com/geXzSeO.png)
 
 ![blacklux notification when product is added to cart](https://i.imgur.com/nZM4ZE5.png)
